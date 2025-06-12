@@ -26,9 +26,6 @@ public class Main {
             circulo.dibujar2D(g);
             cuadrado.dibujar2D(g);
 
-
-
-
         }
     };
 
