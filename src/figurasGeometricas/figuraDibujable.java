@@ -2,6 +2,10 @@ package figurasGeometricas;
 import java.awt.*;
 
 public interface figuraDibujable {
-    void setCoordenadas(int x, int y);
-    void dibujar2D(Graphics g);
+
+    public void setCoordenadas(int x, int y);
+    public void dibujar2D(Graphics g);
+
+
+
 }
