@@ -3,6 +3,11 @@ import figurasGeometricas.CuadradoDibujable;
 import figurasGeometricas.TrianguloDibujable;
 import figurasGeometricas.ValorInvalidoException;
 
+
+
+
+//Excepcion cuando los valores ingresados son cero o numeros negativos y numeros validos
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.InputMismatchException;
